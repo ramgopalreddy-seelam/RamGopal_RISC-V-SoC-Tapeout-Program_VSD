@@ -53,5 +53,6 @@ $ sudo apt-get install iverilog
 $ sudo apt-get update
 $ sudo apt install gtkwave
 ```
-![Alt Text](Images/gtkwave_installation_done.jpeg)
+<img width="550" height="132" alt="image" src="https://github.com/user-attachments/assets/0ae4294d-e1cd-48a9-ac4a-9163b9872f62" />
+
 
