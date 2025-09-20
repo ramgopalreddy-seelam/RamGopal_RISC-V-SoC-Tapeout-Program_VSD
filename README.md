@@ -38,7 +38,7 @@ I also acknowledge the support of **RISC-V International**, **India Semiconducto
 
 ## 📈 **Weekly Progress Tracker**
 
-[![Week0](https://img.shields.io/badge/Week%200-Tools%20Setup-success?style=flat-square)](Week0)
+[![Week0](https://img.shields.io/badge/Week%200-Tools%20Setup-success?style=flat-square)](Week0Task0)
 ![Week 1](https://img.shields.io/badge/Week%201-Coming%20Soon-lightgrey?style=flat-square)
 ![Week 2](https://img.shields.io/badge/Week%202-Upcoming-lightgrey?style=flat-square)
 
