@@ -45,7 +45,8 @@ $ sudo make install
 $ sudo apt-get update
 $ sudo apt-get install iverilog
 ```
-![Alt Text](Images/iverilog_status.png)
+<img width="811" height="582" alt="image" src="https://github.com/user-attachments/assets/1349c1b2-83be-4ffc-b131-81acc15351c1" />
+
 
 #### <ins>**gtkwave**</ins>
 ```bash
