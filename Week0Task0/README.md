@@ -37,6 +37,7 @@ $ git submodule update --init --recursive
 $ make 
 $ sudo make install
 ```
+<img width="808" height="658" alt="image" src="https://github.com/user-attachments/assets/524136c8-463b-46ab-a1db-1ca33878c5c5" />
 
 
 
