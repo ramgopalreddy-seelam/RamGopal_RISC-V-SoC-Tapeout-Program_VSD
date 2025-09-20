@@ -37,7 +37,8 @@ $ git submodule update --init --recursive
 $ make 
 $ sudo make install
 ```
-![Alt Text](Images/yosys_installation_done.jpeg)
+<img width="808" height="658" alt="image" src="https://github.com/user-attachments/assets/d41fa3ed-b07b-4670-b557-85713487388f" />
+
 
 #### <ins>**Iverilog**</ins>
 ```bash
