@@ -89,7 +89,7 @@ gtkwave tb_good_mux.vcd
 ```
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/701e8189-3101-4a82-8134-e799521b9a8b" alt="GTKWave Example" width="70%">
+  <img src="Downloads/Netlist.png" alt="GTKWave Example" width="70%">
 </div>
 
 ---
